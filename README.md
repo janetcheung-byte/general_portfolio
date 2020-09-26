@@ -21,6 +21,6 @@ for a fictional bank called Zbank.
 
 	_Tools: Solidity, AWS, Html, Javascript, CSS, Remix IDE_
 
-I also dabble in Data Science. You can find my portfolio [here](https://github.com/janetcheung-byte/data-science-portfolio).
+I also dabble in Data Science. You can find my portfolio [here](https://github.com/janetcheung-byte/portfolio).
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at janetcheung897@gmail.com 

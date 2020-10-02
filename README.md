@@ -18,6 +18,7 @@ for a fictional bank called Zbank.
         - Collaborative project, was responsible for developing a real estate auction smart contract using Solidity that runs on blockchain technology.
         - Was responsible for developing a private blockchain network via Amazon Web Service (AWS)
         - Please install MetaMask in Chrome browser in order to log into MetaMask wallet under Rinkeby Test Network to view Decentralized App webpage 
+		- Please check out my Medium [article](https://medium.com/@janetcheung897/how-i-get-metamask-wallet-connect-to-ethereum-node-running-on-an-aws-ec2-machine-19cf8672e114) on how i built blockchain network in AWS and how i connect the network to MetaMask wallet 
 
 	_Tools: Solidity, AWS, Html, Javascript, CSS, Remix IDE_
 
